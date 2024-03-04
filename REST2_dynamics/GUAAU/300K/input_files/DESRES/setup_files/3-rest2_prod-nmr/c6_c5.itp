@@ -1,0 +1,5 @@
+; constraints for c6_c5 of GUAAU SimRNA cluster 0 in TIP3P water with 0.1M KCl (CHARMM22)
+
+[ constraints ]
+;   i     j tp       dist
+   80    82 2   0.136492

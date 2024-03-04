@@ -1,0 +1,5 @@
+; constraints for c6_c5 of 2KOC in TIP3P water with 0.1M KCL (Jorgensen, Chen, Papu)
+
+[ constraints ]
+;   i     j tp       dist
+   80    82 2   0.134677

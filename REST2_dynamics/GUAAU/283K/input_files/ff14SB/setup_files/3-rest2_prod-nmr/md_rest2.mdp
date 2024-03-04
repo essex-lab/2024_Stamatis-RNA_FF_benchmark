@@ -1,0 +1,49 @@
+define			= -DCONSTR
+integrator              = sd            ; 
+dt                      = 0.004
+nsteps                  = 500000000     ; 2 us
+nstlog                  = 5000          ; 20 ps
+nstxout-compressed      = 5000          ; 20 ps
+nstvout                 = 0
+nstfout                 = 0
+nstcalcenergy           = 100
+nstenergy               = 2000          ; 8 ps
+; Constraints
+constraints             = hbonds
+constraint_algorithm    = lincs
+lincs_iter              = 1             ; accuracy of LINCS
+lincs_order             = 4 		; also related to accuracy
+; Distance restaints for native H-bonds
+;disre                   = simple        ; simple (per-molecule) distance restraints.
+;disre-weighting         = conservative  ; weighting of atom pairs is proportional to dr^-7. Implies disre-tau=0?. Might need modification if it has an unphysical effect on the system.
+;disre-fc                = 2500          ; force constant in KJ/(mol nm2). Final value for each distance given after multiplication with pair factor.
+;nstdisreout             = 0           ; output frequency for pair distances to energy file. 
+; Electrostatics 
+cutoff-scheme           = Verlet
+nstlist                 = 20
+rlist                   = 1.2
+coulombtype             = pme
+rcoulomb                = 1.2
+pme_order               = 4
+fourierspacing          = 0.16
+; Lennard-Jones
+vdwtype                 = Cut-off
+vdw-modifier            = force-switch
+rvdw-switch             = 1.0
+rvdw                    = 1.2
+DispCorr                = no
+; Thermostat
+tcoupl                  = V-rescale     ; was nose-hoover. Changed to V-rescale for consistency with previous simulations.
+tc_grps                 = RNA Water_and_ions; Water_ions consists of K, Ks, CL, and SOL molecules.
+tau_t                   = 2.0 2.0
+ref_t                   = 283 283
+nhchainlength           = 1
+; Energy groups
+energygrps              = RNA Water_and_ions; Water_ions consists of K, Ks, CL, and SOL molecules.
+; No barostat since we're doing NVT
+pcoupl                  = no
+; Continuation from NVT equilibration. Using last velocities.
+continuation            = yes
+gen_vel                 = no
+gen_temp                = 283
+gen_seed                = -1

@@ -1,0 +1,45 @@
+integrator              = sd
+dt                      = 0.004         ; larger timestep thanks to H.M.R.
+nsteps                  = 250000        ; 1 ns
+nstlog                  = 250           ; 1 ps
+nstxout-compressed      = 2500          ; 10 ps
+nstvout                 = 250
+nstenergy               = 250
+;
+cutoff-scheme           = Verlet
+nstlist                 = 20
+rlist                   = 1.2
+coulombtype             = pme
+rcoulomb                = 1.2
+pme_order               = 4
+fourierspacing          = 0.16
+vdwtype                 = Cut-off
+vdw-modifier            = force-switch
+rvdw-switch             = 1.0
+rvdw                    = 1.2
+DispCorr                = no
+;
+tcoupl                  = V-rescale          ; was nose-hoover. Changed to V-rescale for consistency.
+tc_grps                 = RNA Water_and_ions     ; Water_and_ions consists of K, Ks, CL, and SOL molecules
+tau_t                   = 2.0 2.0            ; is that alright or should decrease?
+ref_t                   = 283 283
+nhchainlength           = 1
+;
+energygrps              = RNA Water_and_ions     ; Water_and_ions consists of K, Ks, CL, and SOL molecules
+;
+pcoupl                  = no
+;
+constraints             = hbonds
+constraint_algorithm    = lincs
+lincs_iter              = 1                  ; accurary of LINCS
+lincs_order             = 4                  ; also related to accuracy
+; Define distance restraints for native H-bonds.
+;disre                   = simple             ; simple (per-molecule) distance restraints.
+;disre-weighting         = conservative       ; weighting of atom pairs in proportional to dr^-7. Implies disre-tau=0?. Might need modification if it has an unphysical effect on the system.
+;disre-fc                = 2500              ; force constant in KJ/(mol nm^2). Final value given after multiplication with pair factor.
+;nstdisreout             = 100                ; output frequency for pair distances to energy file. 
+; Generate new velocities for this run 
+continuation            = no
+gen_vel                 = yes
+gen_temp                = 283
+gen_seed                = -1

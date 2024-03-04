@@ -1,0 +1,5 @@
+; constraints for c6_c5 of AUCG SimRNA cluster 0 in TIP3P water with 0.1M KCl (Joung-Cheatham)
+
+[ constraints ]
+;   i     j tp       dist
+   80    82 2   0.136536
