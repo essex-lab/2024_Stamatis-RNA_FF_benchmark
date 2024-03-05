@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg version="1.1"
+   width="308px"
+   height="308px"
+xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="white"/>
+
+  <line x1="137.2777" y1="218.5563" x2="137.2078" y2="198.5566" stroke="#595959"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0" />
+  <line x1="136.4135" y1="98.4537" x2="130.8576" y2="79.1043" stroke="#595959"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0" />
+  <line x1="130.8576" y1="79.1043" x2="136.3838" y2="59.8633" stroke="#595959"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0" />
+  <line x1="136.3838" y1="59.8633" x2="154.0000" y2="50.4081" stroke="#595959"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0" />
+  <line x1="154.0000" y1="50.4081" x2="171.6162" y2="59.8633" stroke="#595959"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0" />
+  <line x1="177.1424" y1="79.1043" x2="171.5865" y2="98.4537" stroke="#595959"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0" />
+  <line x1="170.7922" y1="198.5566" x2="170.7223" y2="218.5563" stroke="#595959"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0" />
+  <line x1="136.8379" y1="158.5484" x2="171.1621" y2="158.5484" stroke="#d75b00" stroke-width="1.0" />
+  <circle cx="154.0000" cy="158.5484" r="2.25" stroke="#d75b00" stroke-width="1.0" fill="#d75b00"/>
+  <line x1="136.6417" y1="140.1359" x2="171.3583" y2="140.1359" stroke="#efaf00" stroke-width="1.0" />
+  <circle cx="154.0000" cy="140.1359" r="2.25" stroke="#efaf00" stroke-width="1.0" fill="#efaf00"/>
+  <line x1="136.4135" y1="95.2537" x2="171.5865" y2="95.2537" stroke="#e78c00" stroke-width="1.0" />
+  <path d="M 148.2500 97.5037 L 148.2500 93.0037 L 152.7500 93.0037 L 152.7500 97.5037 z" style="stroke:#e78c00;stroke-width:1.0" fill="#e78c00" 
+    transform="rotate(180.0000 154.0000 95.2537)"/>
+  <path d="M 155.7500 97.5037 L 155.7500 93.0037 L 159.7500 95.2537 z" style="stroke:#e78c00;stroke-width:1.0" fill="#e78c00"
+    transform="rotate(180.0000 154.0000 95.2537)"/>
+  <line x1="136.4135" y1="101.6537" x2="171.5865" y2="101.6537" stroke="#eeaa00" stroke-width="1.0" />
+  <circle cx="154.0000" cy="101.6537" r="2.25" stroke="#eeaa00" stroke-width="1.0" fill="#eeaa00"/>
+  <line x1="137.4696" y1="258.5550" x2="137.3977" y2="238.5555" stroke="#d24f00" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="136.9336"
+     y="247.5552"
+     transform="rotate(269.7938 137.4336 248.5552)" /> 
+  <path
+     style="fill:none;stroke:#d24f00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 137.4336,246.5552 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(269.7938 137.4336 248.5552)"/>
+  <line x1="137.4696" y1="259.8050" x2="170.5304" y2="259.8050" stroke="#2d0032" stroke-width="1.0" />
+  <line x1="137.4696" y1="257.3050" x2="170.5304" y2="257.3050" stroke="#2d0032" stroke-width="1.0" />
+  <line x1="137.3977" y1="238.5555" x2="137.2777" y2="218.5563" stroke="#000000" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="136.8377"
+     y="227.5559"
+     transform="rotate(269.6563 137.3377 228.5559)" /> 
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 137.3377,226.5559 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(269.6563 137.3377 228.5559)"/>
+  <line x1="137.3977" y1="239.8055" x2="170.6023" y2="239.8055" stroke="#270026" stroke-width="1.0" />
+  <line x1="137.3977" y1="237.3055" x2="170.6023" y2="237.3055" stroke="#270026" stroke-width="1.0" />
+  <line x1="137.3977" y1="238.5555" x2="170.5304" y2="258.5550" stroke="#ea9900" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;stroke:none"
+     width="5.5"
+     height="2"
+     x="151.2140"
+     y="247.5552" 
+     transform="rotate(31.1160 153.9640 248.5552)"    /> 
+  <path
+     style="fill:none;stroke:#ea9900;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 154.7140,246.5552 2,2 -2,2 m -1.5,-4 -2,2 2,2" transform="rotate(31.1160 153.9640 248.5552)"/>
+  <line x1="137.2777" y1="219.8063" x2="170.7223" y2="219.8063" stroke="#17000d" stroke-width="1.0" />
+  <line x1="137.2777" y1="217.3063" x2="170.7223" y2="217.3063" stroke="#17000d" stroke-width="1.0" />
+  <line x1="137.2078" y1="198.5566" x2="137.0380" y2="178.5557" stroke="#a31289" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="136.6229"
+     y="187.5561"
+     transform="rotate(269.5137 137.1229 188.5561)" /> 
+  <path
+     style="fill:none;stroke:#a31289;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 137.1229,186.5561 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(269.5137 137.1229 188.5561)"/>
+  <line x1="137.2078" y1="198.5566" x2="170.7922" y2="198.5566" stroke="#4b0084" stroke-width="1.0" />
+  <line x1="137.2078" y1="198.5566" x2="170.7223" y2="218.5563" stroke="#17000d" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;stroke:none"
+     width="5.5"
+     height="2"
+     x="151.2151"
+     y="207.5564" 
+     transform="rotate(30.8266 153.9651 208.5564)"    /> 
+  <path
+     style="fill:none;stroke:#17000d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 154.7151,206.5564 2,2 -2,2 m -1.5,-4 -2,2 2,2" transform="rotate(30.8266 153.9651 208.5564)"/>
+  <line x1="137.0380" y1="178.5557" x2="136.8379" y2="158.5484" stroke="#8d07ef" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="136.4380"
+     y="167.5520"
+     transform="rotate(269.4269 136.9380 168.5520)" /> 
+  <path
+     style="fill:none;stroke:#8d07ef;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 136.9380,166.5520 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(269.4269 136.9380 168.5520)"/>
+  <line x1="137.0380" y1="179.8057" x2="170.9620" y2="179.8057" stroke="#3c0057" stroke-width="1.0" />
+  <line x1="137.0380" y1="177.3057" x2="170.9620" y2="177.3057" stroke="#3c0057" stroke-width="1.0" />
+  <line x1="136.8379" y1="158.5484" x2="136.6417" y2="138.5359" stroke="#960bd2" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="136.2398"
+     y="147.5421"
+     transform="rotate(269.4383 136.7398 148.5421)" /> 
+  <path
+     style="fill:none;stroke:#960bd2;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 136.7398,146.5421 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(269.4383 136.7398 148.5421)"/>
+  <line x1="136.6417" y1="138.5359" x2="136.6089" y2="118.5113" stroke="#8f08ea" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="136.1253"
+     y="127.5236"
+     transform="rotate(269.9060 136.6253 128.5236)" /> 
+  <path
+     style="fill:none;stroke:#8f08ea;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 136.6253,126.5236 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(269.9060 136.6253 128.5236)"/>
+  <line x1="136.6417" y1="136.9359" x2="171.3583" y2="136.9359" stroke="#6d02e7" stroke-width="1.0" />
+  <line x1="136.6089" y1="118.5113" x2="136.4135" y2="98.4537" stroke="#4e008f" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="136.0112"
+     y="107.4825"
+     transform="rotate(269.4420 136.5112 108.4825)" /> 
+  <path
+     style="fill:none;stroke:#4e008f;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 136.5112,106.4825 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(269.4420 136.5112 108.4825)"/>
+  <line x1="136.6089" y1="119.7613" x2="171.3911" y2="119.7613" stroke="#33003e" stroke-width="1.0" />
+  <line x1="136.6089" y1="117.2613" x2="171.3911" y2="117.2613" stroke="#33003e" stroke-width="1.0" />
+  <line x1="136.6089" y1="118.5113" x2="171.3583" y2="138.5359" stroke="#f1b400" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;stroke:none"
+     width="5.5"
+     height="2"
+     x="151.2336"
+     y="127.5236" 
+     transform="rotate(29.9529 153.9836 128.5236)"    /> 
+  <path
+     style="fill:none;stroke:#f1b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 154.7336,126.5236 2,2 -2,2 m -1.5,-4 -2,2 2,2" transform="rotate(29.9529 153.9836 128.5236)"/>
+  <line x1="136.4135" y1="98.4537" x2="171.5865" y2="98.4537" stroke="#980bca" stroke-width="1.0" />
+  <line x1="136.4135" y1="98.4537" x2="171.3911" y2="118.5113" stroke="#f3bd00" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;stroke:none"
+     width="5.5"
+     height="2"
+     x="151.1523"
+     y="107.4825" 
+     transform="rotate(29.8317 153.9023 108.4825)"    /> 
+  <path
+     style="fill:none;stroke:#f3bd00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 154.6523,106.4825 2,2 -2,2 m -1.5,-4 -2,2 2,2" transform="rotate(29.8317 153.9023 108.4825)"/>
+  <line x1="130.8576" y1="79.1043" x2="171.5865" y2="98.4537" stroke="#37004b" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;stroke:none"
+     width="5.5"
+     height="2"
+     x="148.4721"
+     y="87.7790" 
+     transform="rotate(25.4114 151.2221 88.7790)"    /> 
+  <path
+     style="fill:none;stroke:#37004b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+    d="m 151.9721,86.7790 2,2 -2,2 m -1.5,-4 -2,2 2,2" transform="rotate(25.4114 151.2221 88.7790)"/>
+  <line x1="171.6162" y1="59.8633" x2="177.1424" y2="79.1043" stroke="#f1b400" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="173.8793"
+     y="68.4838"
+     transform="rotate(73.9753 174.3793 69.4838)" /> 
+  <path
+     style="fill:none;stroke:#f1b400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 174.3793,67.4838 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(73.9753 174.3793 69.4838)"/>
+  <line x1="171.5865" y1="98.4537" x2="171.3911" y2="118.5113" stroke="#eca100" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="170.9888"
+     y="107.4825"
+     transform="rotate(90.5580 171.4888 108.4825)" /> 
+  <path
+     style="fill:none;stroke:#eca100;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 171.4888,106.4825 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(90.5580 171.4888 108.4825)"/>
+  <line x1="171.3911" y1="118.5113" x2="171.3583" y2="138.5359" stroke="#b41f06" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="170.8747"
+     y="127.5236"
+     transform="rotate(90.0940 171.3747 128.5236)" /> 
+  <path
+     style="fill:none;stroke:#b41f06;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 171.3747,126.5236 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(90.0940 171.3747 128.5236)"/>
+  <line x1="171.3583" y1="138.5359" x2="171.1621" y2="158.5484" stroke="#940ad9" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="170.7602"
+     y="147.5421"
+     transform="rotate(90.5617 171.2602 148.5421)" /> 
+  <path
+     style="fill:none;stroke:#940ad9;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 171.2602,146.5421 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(90.5617 171.2602 148.5421)"/>
+  <line x1="171.1621" y1="158.5484" x2="170.9620" y2="178.5557" stroke="#bf2d00" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="170.5620"
+     y="167.5520"
+     transform="rotate(90.5731 171.0620 168.5520)" /> 
+  <path
+     style="fill:none;stroke:#bf2d00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 171.0620,166.5520 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(90.5731 171.0620 168.5520)"/>
+  <line x1="170.9620" y1="178.5557" x2="170.7922" y2="198.5566" stroke="#980bca" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="170.3771"
+     y="187.5561"
+     transform="rotate(90.4863 170.8771 188.5561)" /> 
+  <path
+     style="fill:none;stroke:#980bca;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 170.8771,186.5561 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(90.4863 170.8771 188.5561)"/>
+  <line x1="170.7223" y1="218.5563" x2="170.6023" y2="238.5555" stroke="#000000" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="170.1623"
+     y="227.5559"
+     transform="rotate(90.3437 170.6623 228.5559)" /> 
+  <path
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 170.6623,226.5559 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(90.3437 170.6623 228.5559)"/>
+  <line x1="170.6023" y1="238.5555" x2="170.5304" y2="258.5550" stroke="#a31289" stroke-width="1.0" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     width="2"
+     height="2"
+     x="170.0664"
+     y="247.5552"
+     transform="rotate(90.2062 170.5664 248.5552)" /> 
+  <path
+     style="fill:none;stroke:#a31289;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 170.5664,246.5552 2,2 -2,2 m -2.370121,-4 2,2 -2,2"
+     transform="rotate(90.2062 170.5664 248.5552)"/>
+<circle cx="137.4696" cy="258.5550" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="137.4696" y="261.2550" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >G</text>
+<circle cx="137.3977" cy="238.5555" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="137.3977" y="241.2555" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >G</text>
+<circle cx="137.2777" cy="218.5563" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="137.2777" y="221.2563" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >C</text>
+<circle cx="137.2078" cy="198.5566" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="137.2078" y="201.2566" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >A</text>
+<circle cx="137.0380" cy="178.5557" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="137.0380" y="181.2557" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >G</text>
+<circle cx="136.8379" cy="158.5484" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="136.8379" y="161.2484" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >A</text>
+<circle cx="136.6417" cy="138.5359" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="136.6417" y="141.2359" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >U</text>
+<circle cx="136.6089" cy="118.5113" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="136.6089" y="121.2113" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >C</text>
+<circle cx="136.4135" cy="98.4537" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="136.4135" y="101.1537" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >U</text>
+<circle cx="130.8576" cy="79.1043" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="130.8576" y="81.8043" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >G</text>
+<circle cx="136.3838" cy="59.8633" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="136.3838" y="62.5633" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >U</text>
+<circle cx="154.0000" cy="50.4081" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="154.0000" y="53.1081" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >A</text>
+<circle cx="171.6162" cy="59.8633" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="171.6162" y="62.5633" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >A</text>
+<circle cx="177.1424" cy="79.1043" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="177.1424" y="81.8043" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >U</text>
+<circle cx="171.5865" cy="98.4537" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="171.5865" y="101.1537" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >A</text>
+<circle cx="171.3911" cy="118.5113" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="171.3911" y="121.2113" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >G</text>
+<circle cx="171.3583" cy="138.5359" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="171.3583" y="141.2359" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >A</text>
+<circle cx="171.1621" cy="158.5484" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="171.1621" y="161.2484" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >A</text>
+<circle cx="170.9620" cy="178.5557" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="170.9620" y="181.2557" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >C</text>
+<circle cx="170.7922" cy="198.5566" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="170.7922" y="201.2566" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >U</text>
+<circle cx="170.7223" cy="218.5563" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="170.7223" y="221.2563" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >G</text>
+<circle cx="170.6023" cy="238.5555" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="170.6023" y="241.2555" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >C</text>
+<circle cx="170.5304" cy="258.5550" r="5.0" stroke="#595959" stroke-width="1.0" fill="#ffffff"/>
+<text x="170.5304" y="261.2550" text-anchor="middle" font-family="Helvetica" font-size="7.5" fill="#000000" >C</text>
+</svg>
