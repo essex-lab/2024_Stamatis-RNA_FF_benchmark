@@ -4,7 +4,7 @@ This repository contains the published data, Jupyter Notebooks and input data to
 
 Working paper version: https://doi.org/10.26434/chemrxiv-2023-0j7p4
 
-Guthub repo: https://github.com/essex-lab/2024_Stamatis-RNA_FF_benchmark
+Github repo: https://github.com/essex-lab/2024_Stamatis-RNA_FF_benchmark
 
 Full dataset: https://doi.org/10.5281/zenodo.10715633
 
